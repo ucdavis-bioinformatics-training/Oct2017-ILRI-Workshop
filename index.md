@@ -14,7 +14,7 @@
 * [dbcAmplicons: Bioinformatics](dbcAmplicons_Bioinformatics.pdf) (materials)
 
 ### metadata
-* [metadata](metdata)
+* [sample submission](metadata/samplesheet.xlsx)
 * [barcode table](metadata/dbcBarcodeLookupTable.txt)
 * [primer table](metadata/PrimerTable.txt)
 * [sample sheet](metadata/workshopSamplesheet.txt)
@@ -25,8 +25,6 @@
 * [dbcAmplicons: Data processing, other amplicons](dbcAmplicons_commands_all_amplicons.md)
 * [MCA Analysis in phyloseq](MCA_Workshop_R/phyloseq.md)
 
-
-* [Host Microbe Systems Biology Core](thursday/Microbial Analysis Presentation.pdf)
-* [Oligotyping](friday/Oligotyping - MCA workshop 9-8-17.pdf)
-* [Closing thoughts](friday/Closing_Thoughts.pdf)
+### Resources
+* [Primer Design](metadata/Illumina-workshop-Primers-worksheet.xls)
 
