@@ -14,7 +14,7 @@
 * [dbcAmplicons: Bioinformatics](dbcAmplicons_Bioinformatics.pdf) (materials)
 
 ### metadata
-* [sample submission](metadata/samplesheet.xlsx)
+* [sample submission](metadata/slashpilesamplesheet.xlsx)
 * [barcode table](metadata/dbcBarcodeLookupTable.txt)
 * [primer table](metadata/PrimerTable.txt)
 * [sample sheet](metadata/workshopSamplesheet.txt)
