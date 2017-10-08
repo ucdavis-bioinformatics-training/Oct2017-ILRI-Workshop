@@ -13,7 +13,7 @@
 * [dbcAmplicons: Amplicons](dbcAmplicons_Amplicons.pdf) (materials)
 * [dbcAmplicons: Bioinformatics](dbcAmplicons_Bioinformatics.pdf) (materials)
 
-### metadata
+### dataset metadata
 * [sample submission](metadata/slashpilesamplesheet.xlsx)
 * [barcode table](metadata/dbcBarcodeLookupTable.txt)
 * [primer table](metadata/PrimerTable.txt)
@@ -28,3 +28,5 @@
 ### Resources
 * [Primer Design](metadata/Illumina-workshop-Primers-worksheet.xls)
 
+### Metagenomics Discussion
+* [Preprocessing Data](Preprocessing.pdf)
