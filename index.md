@@ -2,21 +2,31 @@
 
 [github link](https://github.com/ucdavis-bioinformatics-training/Oct2017-ILRI-Workshop)
 
-* [Introduction](wednesday/Introduction.pdf) (talk)
-* [Logging In and transferring files](wednesday/logging-in)
-* [Intro to command-line](wednesday/command-line-intro)
-* [What is Bioinformatics?](wednesday/What_is_Bioinformatics.pdf) (talk)
-* [Running jobs on the Cluster and using modules](wednesday/cluster)
-* [Installing Software](wednesday/installing_software)
+### Cheat Sheets
+* [Unix](Cheat_Sheets/fwunixref.pdf)
+* [R](Cheat_Sheets/Short-refcard.pdf)
+* [R-Studio](Cheat_Sheets/rstudio-IDE-cheatsheet.pdf)
 
-* [Intro to Microbial Sequencing](wednesday/Intro2MCSequencing.pdf) (talk)
-* [dbcAmplicons: Bioinformatics](thursday/dbcAmplicons_Bioinformatics.pdf) (materials)
-* [dbcAmplicons: Data processing](thursday/dbcAmplicons_commands.md) (hands on)
+### Lectures
+* [Intro to Microbial Sequencing](Intro2MCSequencing.pdf) (talk)
+* [What is Bioinformatics?](What_is_Bioinformatics.pdf) (talk)
+* [dbcAmplicons: Amplicons](dbcAmplicons_Amplicons.pdf) (materials)
+* [dbcAmplicons: Bioinformatics](dbcAmplicons_Bioinformatics.pdf) (materials)
+
+### metadata
+* [metadata](metdata)
+* [barcode table](metadata/dbcBarcodeLookupTable.txt)
+* [primer table](metadata/PrimerTable.txt)
+* [sample sheet](metadata/workshopSamplesheet.txt)
+
+### Hands-on
+* [Installing Software](installing_software.md)
+* [dbcAmplicons: Data processing, 16S V1-V3](dbcAmplicons_commands.md)
+* [dbcAmplicons: Data processing, other amplicons](dbcAmplicons_commands_all_amplicons.md)
+* [MCA Analysis in phyloseq](MCA_Workshop_R/phyloseq.md)
+
+
 * [Host Microbe Systems Biology Core](thursday/Microbial Analysis Presentation.pdf)
-
-* [Intro to R](friday/Intro2R.md)
 * [Oligotyping](friday/Oligotyping - MCA workshop 9-8-17.pdf)
-* [dbcAmplicons: Amplicons](thursday/dbcAmplicons_Amplicons.pdf) (materials)
-* [MCA Analysis in phyloseq](friday/MCA_Workshop_R/phyloseq.md)
 * [Closing thoughts](friday/Closing_Thoughts.pdf)
 
