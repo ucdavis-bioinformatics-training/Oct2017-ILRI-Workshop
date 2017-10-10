@@ -43,6 +43,7 @@ We can pull down the already prepared barcode and primer tables from github
 	cd metadata
 	wget https://raw.githubusercontent.com/ucdavis-bioinformatics-training/Oct2017-ILRI-Workshop/master/metadata/dbcBarcodeLookupTable.txt
 	wget https://raw.githubusercontent.com/ucdavis-bioinformatics-training/Oct2017-ILRI-Workshop/master/metadata/PrimerTable.txt	
+	wget https://raw.githubusercontent.com/ucdavis-bioinformatics-training/Oct2017-ILRI-Workshop/master/metadata/workshopSamplesheet.txt	
 
 You will also need to transfer the sample sheet you created into the metadata directory 
 
