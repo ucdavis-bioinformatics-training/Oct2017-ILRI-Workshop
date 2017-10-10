@@ -60,10 +60,10 @@ Choose the parameter --max-mismatch-density, based on the 16sV1V3 results. If yo
 	dbcAmplicons abundance -S metadata/workshopSamplesheet.txt -O Slashpile.results/16sV4V5 -F Slashpile.intermediate/16sV4V5/Slashpile-16sV4V5.fixrank --biom  > abundance.16sV4V5.log
 	cat abundance.16sV4V5.log
 
-	dbcAmplicons abundance -S metadata/workshopSamplesheet.txt -O Slashpile.results/ITS1 -F Slashpile.intermediate/ITS1/Slashpile-ITS1.fixrank --biom  > abundance.ITS1.log
+	dbcAmplicons abundance -r species -S metadata/workshopSamplesheet.txt -O Slashpile.results/ITS1 -F Slashpile.intermediate/ITS1/Slashpile-ITS1.fixrank --biom  > abundance.ITS1.log
 	cat abundance.ITS1.log
 
-	dbcAmplicons abundance -S metadata/workshopSamplesheet.txt -O Slashpile.results/ITS2 -F Slashpile.intermediate/ITS2/Slashpile-ITS2.fixrank  --biom > abundance.ITS2.log
+	dbcAmplicons abundance -r species -S metadata/workshopSamplesheet.txt -O Slashpile.results/ITS2 -F Slashpile.intermediate/ITS2/Slashpile-ITS2.fixrank  --biom > abundance.ITS2.log
 	cat abundance.ITS2.log
 
 	dbcAmplicons abundance -S metadata/workshopSamplesheet.txt -O Slashpile.results/LSU -F Slashpile.intermediate/LSU/Slashpile-LSU.fixrank --biom > abundance.LSU.log
@@ -73,12 +73,3 @@ view the logs
 
 	cat abundance.*.log
 
-
-**6\.** Split Reads by samples, for downstream processing in another application (post preprocessing/merging), or for submission to the SRA.
-
-	splitReadsBySample.py -h
-	splitReadsBySample.py -O SplitBySample/16sV1V3 -1 Slashpile.intermediate/16sV1V3/Slashpile-16sV1V3_R1.fastq.gz -2 Slashpile.intermediate/16sV1V3/Slashpile-16sV1V3_R2.fastq.gz
-
-**FYI** Preprocessing Pairs with inline BC, Mills lab protocol
-
-	preproc_Pair_with_inlineBC.py -h
