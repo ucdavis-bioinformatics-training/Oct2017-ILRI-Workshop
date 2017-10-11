@@ -2,6 +2,10 @@
 
 [github link](https://github.com/ucdavis-bioinformatics-training/Oct2017-ILRI-Workshop)
 
+### Intro Material
+* [Intro to command line](command-line-intro.md)
+* [Intro to R](Intro2R.md)
+
 ### Cheat Sheets
 * [Unix](Cheat_Sheets/fwunixref.pdf)
 * [R](Cheat_Sheets/Short-refcard.pdf)
