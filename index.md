@@ -33,4 +33,7 @@
 * [Primer Design](metadata/Illumina-workshop-Primers-worksheet.xls)
 
 ### Metagenomics Discussion
+* [Metagenomics](metagenomics.pdf)
 * [Preprocessing Data](Preprocessing.pdf)
+
+[Closing thoughts](Closing_Thoughts.pdf)
